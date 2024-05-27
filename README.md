@@ -18,5 +18,5 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=yashsingha99&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/yashsingha99yashsingha99/blob/output/snake.svg)
+![snake gif](https://github.com/yashsingha99/yashsingha99/blob/output/snake.svg)
 
