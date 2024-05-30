@@ -56,3 +56,5 @@
 
 ![snake gif](https://github.com/yashsingha99/yashsingha99/blob/output/snake.svg)
 
+[![](https://visitcount.itsvg.in/api?id=yashsingha99&icon=5&color=1)](https://visitcount.itsvg.in)
+
