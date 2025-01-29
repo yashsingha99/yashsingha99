@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Yash - Full-Stack Developer & JavaScript Enthusiast!!!
+### 👋 Hi, I'm Yash - Full-Stack Developer & JavaScript Enthusiast!!!                                          <iframe src="https://github.com/sponsors/yashsingha99/button" title="Sponsor yashsingha99" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 ##### 🌟 Actively expanding my skills in all areas of technology.
 ##### 🛠️ I enjoy creating fantastic projects during my spare time. Each project is a new adventure, a chance to explore new techniques and push the boundaries of what I thought was possible.
 
