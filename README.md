@@ -61,7 +61,7 @@
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashsingha99&theme=onedark&no-frame=true&row=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsingha99&theme=github_dark" />
 
 </div>
 
