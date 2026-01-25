@@ -91,9 +91,9 @@ _(More cool projects coming soon 👀)_
 
 ---
 
-## 🏆 Contributions Spotlight
+## 🏆 GitHub Achievements
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yashsingha99&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashsingha99&theme=onedark&no-frame=true&margin-w=10)
 
 ---
 
