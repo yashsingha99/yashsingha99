@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🚀 Hey there, I'm **Yash** 👋  
-### 💻 Full-Stack Developer | ⚡ JavaScript Enthusiast | ☕ Java Lover  
+# 🚀 Hey, I'm **Yash** 👋  
+### 🧑‍💻 Full-Stack Developer | 📱 Flutter & Android Dev | ⚡ JavaScript Enthusiast  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+cool+things+on+the+web;Full-Stack+Developer+in+progress;Turning+ideas+into+code;Learning+something+new+every+day!" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+%26+Mobile+Apps;Flutter+Android+Developer;Turning+Ideas+Into+Reality;Ship.+Break.+Fix.+Repeat." />
 
 </div>
 
@@ -11,22 +11,23 @@
 
 ## 🧠 About Me
 
-✨ Passionate developer who loves **building, breaking, and rebuilding** software  
-🔥 Constantly exploring **new technologies & best practices**  
-🛠️ I believe **projects > tutorials**  
-🎯 Goal: Build impactful products & become an exceptional engineer  
+✨ Passionate about building **web, backend, and Android apps**  
+📱 Love creating **smooth Flutter UIs with solid logic**  
+⚡ Enjoy working across the stack — from UI to APIs  
+🛠️ Believe in **learning by building real projects**  
+🎯 Goal: Become a **high-impact software engineer**
 
-> _"Every line of code is a step closer to mastery."_  
+> _“Code once. Improve forever.”_
 
 ---
 
-## 🧩 What I Love Working On
+## 🎮 Current Quests
 
-- 🌐 Full-Stack Web Applications  
-- ⚡ Scalable Backend APIs  
-- 🎨 Clean, responsive & accessible UIs  
-- 🔌 Real-time apps (chat, sockets, dashboards)  
-- ☁️ Cloud & deployment workflows  
+- 🌐 Full-Stack Web Development  
+- 📱 Android App Development with **Flutter**  
+- 🧩 Clean Architecture & State Management  
+- 💬 Real-time Apps (Chat, Notifications)  
+- ☁️ Cloud Deployment & DevOps Basics  
 
 ---
 
@@ -34,90 +35,108 @@
 
 <div align="center">
 
-### Languages
+### 📌 Languages
 ![Java](https://img.shields.io/badge/Java-ffb200?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black)
 
-### Frontend
+### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Databases
+### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Tools & Platforms
+### ☁️ Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=for-the-badge&logo=supabase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📌 Featured Projects (Idea Section)
-🚧 **Social Media App** – Posts, likes, comments, real-time interactions  
-💬 **Chat Application** – Real-time messaging with Socket.io  
-🧠 **Admin Dashboards** – Analytics, user management & clean UI  
-☁️ **Cloud-Deployed Apps** – Scalable & production-ready  
+## 🧪 Side Quests (Projects)
 
-_(More cool projects coming soon 👀)_  
+📱 **Flutter Android Apps** – Clean UI, performance-focused  
+💬 **Chat Applications** – Real-time messaging  
+🌐 **Social Media Platforms** – Posts, likes, comments  
+📊 **Admin Dashboards** – Analytics & management tools  
+☁️ **Cloud Deployed Apps** – Production-ready builds  
 
 ---
 
-## 🔥 GitHub Activity
+## 🏆 Achievements Unlocked
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsingha99&theme=tokyonight)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsingha99&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsingha99&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashsingha99&theme=onedark&no-frame=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 Dev Power Meter
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashsingha99&theme=onedark&no-frame=true&margin-w=10)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsingha99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsingha99&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 XP Timeline
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashsingha99&theme=react-dark)
+
+</div>
+
+---
+
+## 🐍 Contribution Boss Fight
+
+<div align="center">
 
 ![snake gif](https://github.com/yashsingha99/yashsingha99/blob/output/snake.svg)
 
+</div>
+
 ---
 
-## 🌍 Profile Views
+## 🌍 Visitors Entered the Dev Zone
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=yashsingha99&icon=5&color=6)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=yashsingha99&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Build Something Cool
+<div align="center">
 
-💼 Open to collaborations  
-📚 Always learning  
-🚀 Always shipping  
+### 🤝 Ready to Co-Op?
 
-⭐ **If you like my work, consider starring a repo — it keeps me motivated!**
+⭐ Star a repo  
+🍴 Fork & experiment  
+💬 Collaborate  
+🚀 Let’s build something legendary  
 
+</div>
